@@ -52,6 +52,7 @@ header > h1{
 }
 
 header > p{
+    padding-bottom: 10px;
     font-family: var(--font-padrao);
     padding-left: 10px;
     padding-right: 10px;
@@ -68,7 +69,7 @@ nav{
 }
 
 nav > a{
-    color: white;
+    color: #83e1ad;
     padding: 10px;
     font-weight: bold;
     transition-duration: 0.5s;
